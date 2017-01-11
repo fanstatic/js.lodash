@@ -7,7 +7,7 @@ lodash = Resource(
     minified='js/lodash.min.js'
 )
 
-lodash_compatible = Resource(
-    library, 'js/lodash.compat.js',
-    minified='js/lodash.compat.min.js'
+lodash_core = Resource(
+    library, 'js/lodash.core.js',
+    minified='js/lodash.core.min.js'
 )
